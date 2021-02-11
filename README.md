@@ -2,6 +2,8 @@
 
 #### COMPUTER GRAPHICS AND VISUALIZATION (Y2S2)
 
+Labs done in VrmlPad
+
 #### Matric Num: 
 N=1, M=2
 
